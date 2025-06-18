@@ -13,9 +13,9 @@ Estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia.
 <div style="display: flex">
 <br>
 
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/fernanda-araújo-a84060341)
 
-[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://twitter.com/)
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/fernandavit_as/)
 </div>
 
 <h2>Habilidades</h2>
@@ -25,29 +25,19 @@ Estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-![ReactJs](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=blue)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue)
-
-![Php](https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php&logoColor=blue)
-
-![FireBase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow)
-
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
+![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=blue)
 
-![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass)
+![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=blue)
 
-![Styled-Component](https://img.shields.io/badge/StyledComponent-000?style=for-the-badge&logo=styledComponents)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=orange)
 
-</div>
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=00599C)
 
-<div  align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01VitorHugo&layout=compact&langs_count=7&theme=react)
 
 </div>
+
  
 <h2>Sistema operacional</h2>
 <br>
@@ -57,4 +47,4 @@ Estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia.
 <h2>Conecte-se comigo</h2>
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01Vitorhugo)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernanda135)
