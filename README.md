@@ -23,17 +23,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia.
 <div style="display: flex">
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=blue)
-
-![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=blue)
-
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=orange)
-
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=blue) ![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=blue) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=orange) ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=00599C)
 
 
 </div>
