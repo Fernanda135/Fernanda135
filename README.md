@@ -7,7 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnolo
 
 ---
 
-<h2> Habilidades</h2>
+<h2> Linguagems</h2>
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>
