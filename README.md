@@ -1,9 +1,7 @@
 <h1 align="center">Olá! Eu sou a Fernanda 👋</h1>
 
 <h2>Sobre mim</h2> 
-Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia. Tenho interesse em aprender continuamente e gosto de explorar novas ferramentas, linguagens e soluções que possam tornar os sistemas mais eficientes, intuitivos e inovadores. Busco oportunidades para crescer na área de desenvolvimento e contribuir com projetos que façam a diferença.
-
----
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e inovação. Busco constantemente aprender novas ferramentas e linguagens para criar soluções eficientes, intuitivas e com impacto real.
 
 <h2> Linguagens</h2>
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
@@ -26,7 +24,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnolo
 
 <h2> Conecte-se comigo</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernanda135) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/fernanda-araújo-a84060341) 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/fernandavit_as/) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fernandacomun@gmail.com)  
