@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
-
 <h1 align="center">Olá! Eu sou a Fernanda 👋</h1>
 
 <h2>Sobre mim</h2> 
@@ -23,9 +21,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnolo
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fernanda135&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Linguagens mais usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda135&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ---
 
