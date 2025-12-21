@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5A0F14&height=120&section=header"/>
+
 # Olá! Eu sou a Fernanda! 👋  
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e inovação. Busco constantemente aprender novas ferramentas e linguagens para criar soluções eficientes, intuitivas e com impacto real.
@@ -43,3 +45,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnolog
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandacomun@gmail.com)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5A0F14&height=120&section=footer"/>
