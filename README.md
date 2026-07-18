@@ -1,9 +1,18 @@
 
 ## Sobre mim
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+     alt="Ilustração de um computador"
+     width="200px"
+     align="right" />
+
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando ADS no IFPI.
-- 🌱 Aprendendo mais sobre denvolvimento web.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFPI.
+- 🌱 Aprendendo mais sobre desenvolvimento web.
+
+  <br clear="right"/>
+
+</div>
 
 ## Minhas Skills
 
