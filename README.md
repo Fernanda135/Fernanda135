@@ -10,7 +10,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFPI.
-- 🌱 Aprendendo mais sobre desenvolvimento web.
+- 🌱 Aprimorando conhecimentos em desenvolvimento web.
 
 ---
 
